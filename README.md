@@ -15,7 +15,7 @@ The entire application is contained within the `app.js` file.
 
 The REST API to the RESTful_API_MongoDB app is described below.
 
-## Get list of Things
+## Get list of Articles
 
 ### Request
 
@@ -27,7 +27,7 @@ The REST API to the RESTful_API_MongoDB app is described below.
 
     All existing articles will be displayed
     
-## Create a new Thing
+## Create a new Article
 
 ### Request
 
